@@ -10,4 +10,4 @@
 [第4回](4.md) ~配列，構造体，クラス  
 
 ## かいたひと
-[@hirobon1690](://twitter.com/hirobon1690)
+[@hirobon1690](//twitter.com/hirobon1690)
